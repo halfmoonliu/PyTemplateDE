@@ -1,2 +1,2 @@
-def exampleFunc():
-    return None
+def AddNum(x, y):
+    return x+y
