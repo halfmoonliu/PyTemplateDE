@@ -1,2 +1,2 @@
-def dddNum(x, y):
+def addNum(x, y):
     return x+y
