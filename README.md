@@ -9,7 +9,7 @@ This is a python template repository doing the following:
   <br>c. **requirements**.txt: list required packages for the project.
 
 2. Specify GitHub Actions and Timing
-  <br>d. **Makefile**: when pushed/ pulled to main branch, install packages specified in requirements, then lint, format and test python files in the branch.
+  <br>d. **Makefile**: when pushed/ pulled to main branch, install packages, then lint, format and test python files in the branch.
 
 3. Provide example python function and test functions 
    <br>e. **main**.py: contains main functions.
