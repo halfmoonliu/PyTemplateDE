@@ -1,3 +1,4 @@
+[![Python application test with Github Actions](https://github.com/halfmoonliu/PyTemplateDE/actions/workflows/cicd.yml/badge.svg)](https://github.com/halfmoonliu/PyTemplateDE/actions/workflows/cicd.yml)
 ## Python template for Data Engineering
 
 This python template repository for data engineering contains the following directories and files:
