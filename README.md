@@ -12,8 +12,8 @@ This is a python template repository doing the following:
   <br>d. Makefile: when pushed/ pulled to main branch, install packages, then lint, test, format python files in the branch.
 
 3. **Provide example python function and test functions**
-   e. main.py: main function
-   f. test_main.py: test functions for main function
+   <br>e. main.py: main function
+   <br>f. test_main.py: test functions for main function
 
 4. **Provide an overview of the template**
    <br>g. README.md: THIS FILE, explaining the purpose of the directory.
