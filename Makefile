@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest -vv --cov=main --cov=mylib test_*.py
+	python -m pytest -vv test_*.py #--cov=main --cov=mylib
 
 format:	
 	black *.py 
@@ -14,7 +14,7 @@ lint:
 #container-lint:
 	#docker run --rm -i hadolint/hadolint < Dockerfile
 
-#refactor: format lint
+refactor: format lint
 
 #deploy:
 	#deploy goes here
