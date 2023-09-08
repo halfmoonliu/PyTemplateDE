@@ -1,6 +1,6 @@
 ## Python template for Data Engineering
 
-This pythonn template repository for data engineering contains the following directories and files:
+This python template repository for data engineering contains the following directories and files:
 
 1. **.devcontainer**: contains Docker and devcontainer, setting up the environment for development, specifying things like extentions needed.
 2. **.github/workflows**: contains yml file specifying actions.
