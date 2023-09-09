@@ -1,7 +1,7 @@
 [![Tested with GitHub Actions](https://github.com/halfmoonliu/PyTemplateDE/actions/workflows/cicd.yml/badge.svg)](https://github.com/halfmoonliu/PyTemplateDE/actions/workflows/cicd.yml)
 ## Python template for Data Engineering
 
-This is a python template repository doing the following:
+This is a python template repository doing the following
 
 1. **Set up enviroment for development**:
   <br>a. .devcontainer: contains devcontainer (used CodeSpace python default), setting up the environment for development.
