@@ -3,7 +3,7 @@
 
 This is a python template repository doing the following
 
-1. **Set up enviroment for development**:
+1. **Set up enviroment for development**
   <br>a. .devcontainer: contains devcontainer (used CodeSpace python default), setting up the environment for development.
   <br>b. .gitignore: specifies information to ignore (used GitHub default).
   <br>c. requirements.txt: lists required packages for the project.
