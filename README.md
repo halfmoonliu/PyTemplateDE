@@ -17,3 +17,5 @@ This is a python template repository doing the following:
 
 4. **Provide an overview of the template**
    <br>g. README.md: THIS FILE, explaining the purpose of the directory.
+
+The template can be applied to automate quality control for any future projects.
