@@ -8,7 +8,7 @@ This is a python template repository doing the following:
   <br>b. .gitignore: specifies information to ignore (used GitHub default).
   <br>c. requirements.txt: lists required packages for the project.
 
-2. **Specify GitHub Actions and Timing**
+2. **Specify GitHub Actions and timing**
   <br>d. Makefile: when pushed/ pulled to main branch, install packages, then lint, test, format python files in the branch.
 
 3. **Provide example python function and test functions**
